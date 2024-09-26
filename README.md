@@ -14,9 +14,3 @@ Our delivery application provides a rich pizza menu for users. The pizza cart is
 Another project made by me:
 [https://github.com/StormJose/worldwise](https://github.com/StormJose/worlwise)
 ( Requires instalation to use.)
-
-
-## Credits
-
-Created with the help and guidance of Jonas Schmedtmann. Take a look at his own React course.  
-[https://github.com/jonasschmedtmann/ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course)
